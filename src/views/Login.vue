@@ -8,12 +8,8 @@
   <div class="login-container">
       <div class="pageHeader">
         <img src="../assets/logo.png" alt="logo">
-<<<<<<< HEAD
         <span>老子的地盘</span>
         <span>你不服？</span>
-=======
-        <span>测试dev分支提交</span>
->>>>>>> dev
       </div>
 
       <div class="login-box">
