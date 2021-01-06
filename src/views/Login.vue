@@ -8,7 +8,8 @@
   <div class="login-container">
       <div class="pageHeader">
         <img src="../assets/logo.png" alt="logo">
-        <span>TODO区块链管理平台</span>
+        <span>老子的地盘</span>
+        <span>你不服？</span>
       </div>
 
       <div class="login-box">
